@@ -31,7 +31,7 @@ python web_vuln_scanner.py http://testphp.vulnweb.com/
 
 ## Output
 
-
+https://github.com/KunalPatil-04/CODTECH-Task2-Web-Vuln-Scanner/blob/main/images/Task%202.png
 
 
 ## Code
